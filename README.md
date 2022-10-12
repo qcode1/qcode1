@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qcode1
-- 👀 I’m interested in Web Development projects - Python & Flask framework, Javascript, Front-end development, Backend Development and API development.
-- 🌱 I’m currently learning Node JS and ReactJS
-- 💞️ I’m looking to collaborate on Web development project using any of the above listed techologies
+- 👀 I am a full stack developer with an interest in Web Solutions (Apps & Websites) . Some of the technologies in my stack include Python & Flask framework, Javascript, HTML & CSS, PHP, Wordpress, API development, Node JS & Express & React (beginner).
+- 🌱 I’m currently learning, enjoying and getting better at Node JS and ReactJS
+- 💞️ I’m looking to collaborate on Web development projects mainly focusing  using any of the above listed techologies.
 - 📫 How to reach me - nii.quartey19@gmail.com
 
 <!---

@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning, enjoying and getting better at Node JS and ReactJS
 - 💞️ I’m looking to collaborate on Web development projects mainly focusing  using any of the above listed techologies.
 - 📫 How to reach me - nii.quartey19@gmail.com
+- 📍- Accra, Ghana, Africa
 
 <!---
 qcode1/qcode1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

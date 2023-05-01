@@ -2,7 +2,7 @@
 - 👀 I am a full stack developer with an interest in Web Solutions (Apps & Websites) . Some of the technologies in my stack include Python & Flask framework, Javascript, HTML & CSS, PHP, Wordpress, API development, Node JS & Express & React (beginner).
 - 🌱 I’m currently learning, enjoying and getting better at Node JS and ReactJS
 - 💞️ I’m looking to collaborate on Web development projects mainly focusing  using any of the above listed techologies.
-- 📫 How to reach me - nii.quartey19@gmail.com / niiquateboye@innobiiz.co.za
+- 📫 How to reach me - nii.quartey19@gmail.com
 - 📍- Accra, Ghana, Africa
 
 <!---
